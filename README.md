@@ -7,7 +7,7 @@ WEEK#10 Algorithm  Loop-GPAX แบบ for loop
 
 1. ![Code.png](./Code.png)  
    **Code.png** - ภาพแสดงโค้ดที่ใช้ในโครงการสัปดาห์ที่ 10
-2. ![Flowchart.png](./Flowchart.png)  
+2. ![Flowchart.png](./Flowchar.png)  
    **Flowchart.png** - ภาพผังงาน (Flowchart) ของโค้ดในสัปดาห์ที่ 10
 3. ![Pseudocode.png](./Pseudocode.png)  
    **Pseudocode.png** - ภาพแสดงรหัสเทียม
