@@ -1,0 +1,17 @@
+start
+    n = 0, grade = 0, sum = 0, total_credit = 0
+    gpax = 0.0
+    read n
+
+    for (i = 0; i < n)
+        read grade
+        read credit
+        sum = sum + (grade * credit)
+        total_credit = total_credit + credit
+    end for
+
+    gpax = sum / total_credit
+    print total_credit
+    print sum
+    print gpax
+stop
